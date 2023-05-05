@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #f7d3a1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+div{
+  color: #47250c;
+}
+.App-button{
+  height: 45px;
+  font-size: 25px;
+  padding: 9px;
+  color: white;
+  background-color: #ed731c;
+  border-color: #47250c;
+  margin-bottom: 7px;
+}
+
